@@ -10,7 +10,7 @@ public class Main {
 
 
     //About the task.
-    //Task is learn to create a program that opens, deletes, copy's files and etc.
+    //Task is learn to create a program that opens, creates, deletes, copy's files and etc.
 
 
 
